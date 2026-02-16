@@ -1,4 +1,4 @@
-# Task Manager API (Starter)
+# Task Manager API
 
 A simple, production-minded Task Manager REST API built with Node.js, Express and MongoDB (Mongoose). This project demonstrates a clean MVC structure, validation, centralized error handling, and useful middleware patterns for building stable CRUD APIs.
 
@@ -312,7 +312,6 @@ This centralized approach keeps controllers concise and ensures consistent error
 
 ```bash
 git clone <repo-url>
-cd 03-task-manager/starter
 ```
 
 2. Install dependencies:
